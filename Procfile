@@ -1,1 +1,2 @@
-worker:  ./run_bot.sh
+worker:  ./run_bot.shternal/modules/cjs/loader.js:583
+

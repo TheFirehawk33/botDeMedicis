@@ -8,9 +8,9 @@
   },
   "author": "v21",
   "license": "ISC",
-  "dependencies":
-  {
-  	"twit" : "1.x",
-  	 "tracery-grammar": "2.x"
+  "dependencies": {
+    "tracery": "^1.0.3",
+    "tracery-grammar": "^2.7.4",
+    "twit": "^1.1.20"
   }
 }
